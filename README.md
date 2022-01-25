@@ -77,7 +77,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Important Links
 Deployed Link: https://a-t-e.herokuapp.com/<br/>
-Github Repositories: https://github.com/bajraroshan/social-network-api
+Github Repositories: https://github.com/bajraroshan/awesome-text-editor
 
 ## License
 Copyright (c) [2021] [Roshan Bajracharya]
