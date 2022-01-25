@@ -72,13 +72,11 @@ THEN I should have proper build scripts for a webpack application
 
 ## DEMO
 
-![Demo 1](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-01.gif)
-![Demo 2](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-02.gif)
-![Demo 3](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-03.gif)
-![Demo 4](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-04.gif)
+![Demo 1](https://github.com/bajraroshan/awesome-text-editor/blob/master/client/src/images/awesome-text-editor-console.png)
+![Demo 2](https://github.com/bajraroshan/awesome-text-editor/blob/master/client/src/images/awesome-text-editor.png)
 
 ## Important Links
-Deployed Link: https://youtu.be/bkNI_kvtgXs/<br/>
+Deployed Link: https://a-t-e.herokuapp.com/<br/>
 Github Repositories: https://github.com/bajraroshan/social-network-api
 
 ## License
